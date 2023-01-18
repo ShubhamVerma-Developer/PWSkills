@@ -1,3 +1,9 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Assignment/Java Variable and Data Type Assignment",
+        "Assignment/ArrayList in java",
+        "Assignment/2D Array Problem - 3",
+        "Practice"
+    ]
 }
