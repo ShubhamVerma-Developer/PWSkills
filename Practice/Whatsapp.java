@@ -29,13 +29,15 @@ class Whatsapp{
 
         Robot robot = new Robot();
         for(int i=1; i<=size; i++){
+            
             robot.keyPress(KeyEvent.VK_CONTROL);
             robot.keyPress(KeyEvent.VK_V);
 
             robot.keyRelease(KeyEvent.VK_CONTROL);
+            Thread.sleep(100);
             robot.keyRelease(KeyEvent.VK_V); 
-
-            robot.keyPress(KeyEvent.VK_ENTER);
+            Thread.sleep(100);
+            robot.keyPress(KeyEvent.VK_ENTER);   
             robot.keyRelease(KeyEvent.VK_ENTER);
         }        
         }
