@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "test.Pattern1",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectSquares",
+            "request": "launch",
+            "mainClass": "PerfectSquares",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintNthTerm",
+            "request": "launch",
+            "mainClass": "PrintNthTerm",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPattern",
+            "request": "launch",
+            "mainClass": "PrintPattern",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPattern1",
+            "request": "launch",
+            "mainClass": "PrintPattern1",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1InsertElementInto1stIndexInArrayList",
+            "request": "launch",
+            "mainClass": "Q1InsertElementInto1stIndexInArrayList",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1PrefixSumOfMatrix",
+            "request": "launch",
+            "mainClass": "Q1PrefixSumOfMatrix",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1ProductOfTwoVariable",
+            "request": "launch",
+            "mainClass": "Q1ProductOfTwoVariable",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2AsciiValueOfU",
+            "request": "launch",
+            "mainClass": "Q2AsciiValueOfU",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3PrintAreaofRectangle",
+            "request": "launch",
+            "mainClass": "Q3PrintAreaofRectangle",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4CubeofNum",
+            "request": "launch",
+            "mainClass": "Q4CubeofNum",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5SwapTwoNum",
+            "request": "launch",
+            "mainClass": "Q5SwapTwoNum",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whatsapp",
+            "request": "launch",
+            "mainClass": "Whatsapp",
+            "projectName": "PWSkills_77e75a1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNumSelection",
+            "request": "launch",
+            "mainClass": "test.LargestNumSelection",
+            "projectName": "PWSkills_77e75a1c"
+        }
+    ]
+}
